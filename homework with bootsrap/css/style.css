@@ -1,0 +1,109 @@
+
+
+.menu1{
+    height: 60px;
+}
+
+.company h1{
+    font-size: 30px;
+}
+
+.button-size{
+    width: 110px;
+}
+
+.button-size button{
+
+    font-size: 15px;
+    text-align: center;
+    padding-bottom: 12px;
+}
+
+.navbar-size{
+    padding-right: 15px;
+    font-size: 22px;
+   
+}
+
+.navbar-size .nav-item:hover{
+       text-decoration: underline;
+      
+
+}
+.navbar-size li a{
+    font-size: 18px;
+    
+}
+#pricing{
+    text-align: center;
+    margin-top: 75px;
+}
+
+
+/* #pricing .middle1{} */
+
+#pricing .middle1 p{
+    font-weight: 300;
+    font-size: 65px;
+}
+/* #pricing .middle2{} */
+#pricing .middle2 p{
+    font-size: 25px;
+    font-weight: 300;
+}
+#basliq{
+    text-align: center;
+    font-size: 34px;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 2px groove rgba(0,0,0,.03);
+}
+.sign{
+    text-align: center;
+    padding: 25px;
+}
+.sign a{
+    height: 55px;
+    width: 238px;
+    margin-left: -20px;
+    padding-top: 11px;
+    background: white;
+    color: blue;
+    font-size: 20px;
+}
+
+.sign2{
+    text-align: center;
+    padding: 25px;
+}
+.sign2 a{
+    height: 55px;
+    width: 238px;
+    margin-left: -20px;
+    padding-top: 11px;
+    font-size: 20px;
+    
+}
+
+
+hr{
+    margin-top: 70px;
+}
+#end{
+    padding-top: 45px;
+    padding-bottom: 60px;
+}
+
+
+.end1 h4{
+        padding-left: 39px
+}
+.end1 li{
+    list-style: none;
+}
+.end1 li a{
+    color:black;
+    opacity: 0.7;
+}
+
+
+
